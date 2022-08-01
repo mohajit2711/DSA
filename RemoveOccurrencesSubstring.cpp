@@ -35,5 +35,4 @@ string replaceSpaces(string &str){
    }
 
    return str;
-
 }
